@@ -1,0 +1,9 @@
+{
+	"name": "bewop",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "18b14939-8d8e-46cf-a3f4-3bae0b62dbc2",
+		"tenantId": "b564d5ec-8767-4aad-acec-2a2be06deb3f"
+	}
+}
